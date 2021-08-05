@@ -1,12 +1,9 @@
-## Welcome to GitHub Pages
+## 欢迎来到我的GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/MJJ128/MJJ128.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+如何搭建一个自己的GitHub Pages?  [浏览](https://sspai.com/post/54608)
+### 使用Markdown就能编辑你的页面
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown 即富文本编辑器
 
 ```markdown
 Syntax highlighted code block
